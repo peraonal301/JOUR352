@@ -1,0 +1,58 @@
+body {
+  background-color:#ffffff;
+}
+h1 {color: #ff0000;
+font-family: "Oswald", sans-serif;
+}
+
+h2 {color: #213172;
+font-family: "Oswold", sans-serif;
+}
+
+h3 {
+font-family: "Oswold", sans-serif;
+}
+
+p {color: #12CB0D;
+font-family: "Roboto", sans-serif;
+}
+
+.leadGraph {background-color: #000000; color: A2250C; font-weight: bold; font-size: 2rem; padding: 15px;}
+
+.leadPhoto {margin: 15px 15px 15px 15px;}
+
+a {color: #F70E0E; text-decoration: none;}
+a:hover {color: #666666; text-decoration: underline;}
+
+.headerBox {
+background-color: #999999;
+text-align: center;
+padding: 20px 50px 0px 30px;
+}
+
+
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.roboto-<uniquifier> {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+.paragraphBox {
+  background-color: #C19A6B;
+  outline-color: #6E260E;
+  padding: 20px 20px 5px 205px;
+}
+
