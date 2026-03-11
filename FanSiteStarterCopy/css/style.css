@@ -1,0 +1,106 @@
+body {
+  background-color:#FBFEF9;
+}
+h1 {color: #04395E;
+font-family: "Oswald", sans-serif;
+}
+
+h2 {color: #031D44;
+font-family: "Oswold", sans-serif;
+}
+
+h3 {
+font-family: "Oswald", sans-serif;
+}
+
+h4 {
+font-family: "Oswald", sans-serif;
+}
+
+p {color: #FBFEF9;
+font-family: "Oswold", sans-serif;
+}
+
+ol {color: #FBFEF9;
+font-family: "Oswold", sans-serif;
+}
+
+ul {color: #FBFEF9;
+font-family: "Oswold", sans-serif;
+}
+
+.leadGraph {background-color: #65AFFF; 
+  color: A2250C; 
+  font-family: "Oswald";
+  font-weight: bold; 
+  font-size: 2rem; 
+  padding: 15px;}
+
+.leadGraph {background-color: #65AFFF; 
+  color: A2250C; 
+  font-family: "Oswald" ;
+  font-weight: bold; 
+  font-size: 1rem; 
+  padding: 15px;}
+
+
+.page2Box {background-color: #FBFEF9; 
+  color: A2250C; 
+  font-family: "Oswald" ;
+  font-weight: bold; 
+  font-size: 2rem; 
+  padding: 15px;}
+
+.photoBox {
+background-color: #FBFEF9;
+text-align: center;
+padding: 50px 10px 50px 10px;
+}
+
+.leadPhoto {margin: 60px 60px 60px 60px;}
+.leadPhoto2 {padding: 60px 60px 60px 60px;}
+
+.bookSummary{background-color: #65AFFF; 
+  color: A2250C; 
+  font-family: "Oswald" ;
+  font-weight: bold; 
+  font-size: 1rem; 
+  padding: 15px;
+  align: left}
+
+a {color: #0E34A0; 
+  text-decoration: none;}
+a:hover {color: #666666; 
+  text-decoration: underline;}
+
+.headerBox {
+background-color: #65AFFF;
+text-align: center;
+padding: 20px 50px 0px 30px;
+}
+
+
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+.paragraphBox {
+  background-color: #C19A6B;
+  outline-color: #6E260E;
+  padding: 0px 20px 0px 205px;
+}
+
