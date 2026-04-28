@@ -1,0 +1,101 @@
+body {
+  background-color: #C6DEC6;
+  color: #000000;
+}
+h1 {color: #000000;
+font-family: "Oswald", sans-serif;
+}
+
+h2 {color: #000000;
+font-family: "Oswold", sans-serif;
+}
+
+h3 {
+font-family: "Oswald", sans-serif;
+}
+
+h4 {
+font-family: "Oswald", sans-serif;
+}
+
+p {color: #000000;
+font-family: "Oswold", sans-serif;
+}
+
+ul {color: #000000;
+font-family: "Oswold", sans-serif;
+}
+
+.leadGraph {background-color: #C6DEC6; 
+  color: #000000; 
+  font-family: "Oswald";
+  font-weight: bold; 
+  font-size: 2rem; 
+  padding: 15px;}
+
+.leadGraph {background-color: #C6DEC6; 
+  color: #000000; 
+  font-family: "Oswald" ;
+  font-weight: bold; 
+  font-size: 1rem; 
+  padding: 15px;}
+
+
+.page2Box {color: #000000; 
+  font-family: "Oswald" ;
+  font-weight: bold; 
+  font-size: 2rem; 
+  padding: 15px;}
+
+.photoBox {
+  background-color: #C6DEC6;
+  align: right;
+  padding: 0px 0px 0px 0px;
+  width: 300px;
+}
+
+.bookSummary{background-color: #C6DEC6; 
+  color: #000000; 
+  font-family: "Oswald" ;
+  font-weight: bold; 
+  font-size: 1rem; 
+  padding: 20px;
+  align: left}
+
+a {color: #804E49; 
+  text-decoration: none;}
+a:hover {color: #758173; 
+  text-decoration: underline;}
+
+.headerBox {
+background-color: #C6DEC6;
+color: #000000 ;
+text-align: center;
+padding: 20px 50px 0px 30px;
+}
+
+
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+.paragraphBox {
+  background-color: #C19A6B;
+  outline-color: #6E260E;
+  padding: 0px 20px 0px 205px;
+}
+
